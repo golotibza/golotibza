@@ -8,14 +8,15 @@ Hi there 👋🏾, I'm **Tebatso**, a **beginner software developer** currently 
 
 ## ⚖️ From Legal Practice to Legal Tech
 
-I am a **LLM candidate**, hold an **LLB degree** from the University of South Africa, and a **Legal Compliance Management** Student from the University of Johannesburg and have successfully completed my **Articles of Clerkship** with UNISA Law Clinic and **Practical Legal Training** with Law School of South Africa. My next step is writing my final admission exam to become an **admitted attorney** of the High Court of South Africa.
+I am a **Master of Laws (LLM) candidate**, holding a **Bachelor of Laws (LLB) degree** from the University of South Africa (UNISA). I am also currently pursuing a qualification in **Legal Compliance Management** at the University of Johannesburg. I have successfully completed my **Articles of Clerkship** at the UNISA Law Clinic and my **Practical Legal Training** at the Law School of South Africa. My next step is to write the final admission exam to become an **admitted attorney** of the High Court of South Africa.
+
 
 While working in the legal field, I became increasingly aware of the challenges faced by lawyers and clients alike:
 - Missed deadlines resulting in prescribed matters
 - Poor record-keeping and unsecured legal files
 - Lack of accessible, affordable digital tools for small law firms and solo practitioners
 
-These gaps inspired me to explore **software development** — not to leave legal profession behind, but to **enhance it**, protect its integrity, and **safeguard client rights** through innovation.
+These gaps inspired me to explore **software development**, not to leave legal profession behind, but to **enhance it**, protect its integrity, and **safeguard client rights** through innovation.
 
 ---
 
@@ -31,7 +32,7 @@ I believe the future of legal practice lies in embracing responsible technology.
 
 ## 🚀 Current Project: LegalSafe SA
 
-I am currently building **LegalSafe SA**, a legal tech platform tailored for South African lawyers.
+I am currently working on building an app which i will call **LegalSafe SA**, a legal tech platform tailored for South African lawyers.
 
 ### 🎯 The Vision:
 - Prevent prescription of legal matters through smart deadline tracking
@@ -69,8 +70,9 @@ If you’re passionate about **access to justice**, **compliance**, or **digital
 
 ---
 
-< “My purpose is to build tech that strengthens justice, not replaces it, empowers legal practitioners, and secure the client’s rights — one line of code at a time.”  
- — *Tebatso Gololo* ⚖️/>
+< "My mission is to create technology that upholds justice (not replaces it), empowers legal professionals, and protects clients' rights...one line of code at a time."  
+ — *Tebatso Gololo* ⚖️ />
+
 
 
 
